@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [NoTes](https://kloosk.github.io/NoTesApp/)
 
+- 🚀 My site about SpaceX rockets[SpaceX Rockets](https://kloosk.github.io/Rockets/)
+
 - 🌱 I’m currently learning **TypeScript NextJS GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://kloosk.github.io/Portfolio/](https://kloosk.github.io/Portfolio/)
@@ -10,6 +12,8 @@
 - 📫 How to reach me **lukasz.gras.97@gmail.com**
 
 - ⌨️ I write algorithms in c++ from time to time
+
+- ❤️ I like coding, playing chess and multiplayer games.
 
 - ♟️ Play chess with me. [Invite me](https://www.chess.com/register?friend=102985142)
 
