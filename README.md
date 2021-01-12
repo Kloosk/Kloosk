@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kloosk.github.io/Portfolio/](https://kloosk.github.io/Portfolio/)
 
-- 📫 How to reach me **lukig606@gmail.com**
+- 📫 How to reach me **lukasz.gras.97@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
