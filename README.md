@@ -11,7 +11,7 @@
 
 - ⌨️ I write algorithms in c++ from time to time
 
-- ♟️ Play chess with me. [https://www.chess.com/register?friend=102985142](https://www.chess.com/register?friend=102985142)
+- ♟️ Play chess with me. [Invite me](https://www.chess.com/register?friend=102985142)
 
 
 <h3 align="left">Languages and Tools:</h3>
