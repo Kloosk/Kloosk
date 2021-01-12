@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NoTes](https://kloosk.github.io/NoTesApp/)
 
-- 🌱 I’m currently learning **TypeScript,NextJS,GraphQL**
+- 🌱 I’m currently learning **TypeScript NextJS GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://kloosk.github.io/Portfolio/](https://kloosk.github.io/Portfolio/)
 
