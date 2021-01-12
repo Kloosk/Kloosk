@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NoTes](https://kloosk.github.io/NoTesApp/)
 
-- 🚀 My site about SpaceX rockets[SpaceX Rockets](https://kloosk.github.io/Rockets/)
+- 🚀 My site about SpaceX rockets [Rockets](https://kloosk.github.io/Rockets/)
 
 - 🌱 I’m currently learning **TypeScript NextJS GraphQL**
 
