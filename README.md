@@ -5,7 +5,7 @@
 
 - 🚀 My site about SpaceX rockets [Rockets](https://kloosk.github.io/Rockets/)
 
-- 🌱 I’m currently learning **PostgreSQL React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://kloosk.github.io/Portfolio/](https://kloosk.github.io/Portfolio/)
 
@@ -13,9 +13,7 @@
 
 - ⌨️ I write algorithms in c++ from time to time
 
-- ❤️ I like coding, playing chess and multiplayer games.
-
-- ♟️ Play chess with me. [Invite me](https://www.chess.com/register?friend=102985142)
+- ❤️ I like coding and multiplayer games.
 
 
 <h3 align="left">Languages and Tools:</h3>
