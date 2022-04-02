@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
 <h3 align="center">FULL-STACK DEVELOPER</h3>
 
-- 🔭 I’m currently working on [NoTes](https://kloosk.github.io/NoTesApp/)
+- 🔭 Full-stack developer in [CodeAlly](https://codeally.io/)
 
 - 🚀 My site about SpaceX rockets [Rockets](https://kloosk.github.io/Rockets/)
 
