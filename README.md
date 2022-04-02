@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
-<h3 align="center">I'm looking for my first job as a front-end or full-stack MERN.</h3>
+<h3 align="center">FULL-STACK DEVELOPER.</h3>
 
 - 🔭 I’m currently working on [NoTes](https://kloosk.github.io/NoTesApp/)
 
